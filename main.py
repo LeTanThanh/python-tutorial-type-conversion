@@ -17,3 +17,10 @@ if __name__ == "__main__":
   - bool(val): convert a value to a boolean value, either True or False.
   - str(val): return the string representation of a value.
   """
+
+  # Getting the type of a value
+
+  print(type(100))
+  print(type(2.0))
+  print(type("Hello"))
+  print(type(True))
