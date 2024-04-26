@@ -9,3 +9,11 @@ if __name__ == "__main__":
   tax_amount = price * tax / 100
 
   print(f"The tax amount price is ${tax_amount}")
+
+  # Other type conversion functions
+
+  """
+  - float(str): convert a tring to a floating-point number.
+  - bool(val): convert a value to a boolean value, either True or False.
+  - str(val): return the string representation of a value.
+  """
